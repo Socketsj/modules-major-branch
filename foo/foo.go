@@ -2,6 +2,6 @@ package foo
 
 import "fmt"
 
-func Foo() {
-   fmt.Println("foo.Foo2 of module")
+func Foo2() {
+   fmt.Println("a foo.Foo2 of module")
 }
